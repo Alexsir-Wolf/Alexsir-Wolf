@@ -1,6 +1,6 @@
 ## Hello there!! 
 
-<p>Meu nome é Alex, estudante de programação web.</p>
+<p>Meu nome é Alex, estudante de desenvolvimento web.</p>
 <p>atualmente estudando C# e .net</p>
 
 <!--MENU COMMIT/LINGUAGENS -->
