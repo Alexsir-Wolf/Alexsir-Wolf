@@ -1,7 +1,7 @@
 ## Hello there!! 
 
 <p>Meu nome é Alex, estudante de desenvolvimento web.</p>
-<p>atualmente estudando C# e .net</p>
+<p>atualmente estudando C#, SQL Server e MySQL </p>
 
 <!--MENU COMMIT/LINGUAGENS -->
 <div align="center">
