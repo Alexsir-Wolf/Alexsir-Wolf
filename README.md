@@ -6,8 +6,8 @@
 <!--MENU COMMIT/LINGUAGENS -->
 <div align="center">
   <a href="https://github.com/Alexsir-Wolf">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alexsir-Wolf&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsir-Wolf&layout=compact&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexsir-Wolf&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsir-Wolf&layout=compact&theme=gotham"/>
     
 
 
