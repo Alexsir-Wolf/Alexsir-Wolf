@@ -1,6 +1,6 @@
 ## Hello there!! 
 
-<p>Meu nome é Alex, estudante de desenvolvimento web.</p>
+<p>Meu nome é Alex, estudante de desenvolvimento Back-end.</p>
 <p>atualmente estudando C#, SQL Server e MySQL </p>
 
 <!--MENU COMMIT/LINGUAGENS -->
