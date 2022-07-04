@@ -1,7 +1,7 @@
 ## Hello there!! 
 
 <p>Meu nome é Alex, estudante de desenvolvimento.</p>
-<p>atualmente estudando C#, React, SQL Server e MySQL </p>
+<p>atualmente estudando C#, React e SQL Server </p>
 
 <!--MENU COMMIT/LINGUAGENS -->
   ##
