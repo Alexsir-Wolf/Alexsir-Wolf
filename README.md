@@ -1,7 +1,7 @@
 ## Hello there!! 
 
-<p>Meu nome é Alex, estudante de desenvolvimento.</p>
-<p>atualmente trabalhando com C#, Javascript e SQL Server </p>
+<p>Meu nome é Alex, recentemente migrei de area, atuando como desenvovledor JR a quase 2 anos.</p>
+<p>trabalhando principalmente com C#, Javascript e SQL Server </p>
 <p></p>
 
 <!--MENU COMMIT/LINGUAGENS -->
