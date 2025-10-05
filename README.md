@@ -1,7 +1,12 @@
 ## Hello there!! 
 
-<p>Meu nome é Alex, recentemente migrei de área, atuando como desenvovledor JR a quase 2 anos.</p>
-<p>trabalhando principalmente com C#, Javascript e SQL Server </p>
+<p>Desenvolvedor .NET formado em Análise e Desenvolvimento de Sistemas, com experiência prática desde 2022.
+
+Após uma sólida trajetória na área de telecomunicações, retomei os estudos em programação em 2021, especializando-me no desenvolvimento de APIs RESTful, aplicando padrões como MVC, CQRS e DDD.
+
+Domínio de boas práticas de desenvolvimento, incluindo Clean Code e princípios SOLID, com experiência em arquiteturas de microsserviços.
+
+Atuo no desenvolvimento de APIs escaláveis em .NET Core, aplicando arquitetura limpa, multitenancy e mensageria com RabbitMQ, sempre com foco em qualidade, desempenho e manutenibilidade. </p>
 <p></p>
 
 <!--MENU COMMIT/LINGUAGENS -->
